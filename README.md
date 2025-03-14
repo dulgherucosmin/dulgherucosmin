@@ -1,10 +1,5 @@
-## Hey, I'm Cosmin 👋
-
-🚀 - Computer Science Student at Griffith College.<br/>
-⭐ - Software Engineer with an interest in Machine Learning & Mathematics.<br/>
-
-# 💫 About Me:
-Hey, I'm Cosmin 👋<br><br>🚀 - Computer Science Student at Griffith College.<br/><br>⭐ - Software Engineer with an interest in Machine Learning & Mathematics.<br/>
+# Hey, I'm Cosmin 👋
+🚀 - Computer Science Student at Griffith College.<br/><br>⭐ - Software Engineer with an interest in Machine Learning & Mathematics.<br/>
 
 
 ## 🌐 Socials:
